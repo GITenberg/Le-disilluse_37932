@@ -1,0 +1,2743 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 37932
+   :PG.Title: Le disilluse
+   :PG.Released: 2011-11-05
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Claudio Paganelli
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: Le disilluse
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: largeit
+   :class: large italics
+
+.. role:: small
+   :class: small
+
+.. role:: scene
+   :class: italics
+
+============
+Le disilluse
+============
+
+.. _pg-header:
+
+.. container:: pgheader language-en
+
+   .. style:: paragraph
+      :class: noindent
+
+   This eBook is for the use of anyone anywhere at no cost and with
+   almost no restrictions whatsoever. You may copy it, give it away or
+   re-use it under the terms of the `Project Gutenberg License`_
+   included with this eBook or online at
+   http://www.gutenberg.org/license.
+
+   
+
+   |
+
+   .. _pg-machine-header:
+
+   .. container::
+
+      Title: Le disilluse
+      
+      Author: Roberto Bracco
+      
+      Release Date: November 05, 2011 [EBook #37932]
+      
+      Language: Italian
+      
+      Character set encoding: UTF-8
+
+      |
+
+      .. _pg-start-line:
+
+      \*\*\* START OF THIS PROJECT GUTENBERG EBOOK LE DISILLUSE \*\*\*
+
+   |
+   |
+   |
+   |
+
+   .. _pg-produced-by:
+
+   .. container::
+
+      Produced by Carlo Traverso, Claudio Paganelli, Barbara Magni, and the Online Distributed Proofreading Team at http://www.pgdp.net.
+
+      |
+
+      This file was produced from images generously made available by The Internet Archive.
+
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME PRIMO`
+   |
+   | NON FARE AD ALTRI... — LUI LEI LUI —
+   | UN'AVVENTURA DI VIAGGIO — UNA DONNA —
+   | **LE DISILLUSE** — DOPO IL VEGLIONE
+   |
+   | :small:`2ª EDIZIONE.`
+   |
+   |
+   |
+   | REMO SANDRON — Editore
+   |
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI`
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+      .. class:: small
+
+      *I diritti di riproduzione e di traduzione sono riservati
+      per tutti i paesi, non escluso il Regno di Svezia e quello
+      di Norvegia.*
+
+      .. class:: small
+
+      È assolutamente proibito di rappresentare questi lavori
+      senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+      17 Settembre 1882)*.
+
+      .. class:: small
+
+      Published in Palermo, 10th. June Privilege of Copyright in the United
+      States reserved under the Act approved March 3rd. 1905, by Roberto Bracco
+      and Remo Sandron.
+
+      .. class:: small
+
+      Off. Tip. Sandron — 126 — I — 290312.
+
+----
+
+.. clearpage::
+
+.. class:: center
+
+| :x-large:`LE DISILLUSE.`
+|
+| :largeit:`Fiaba per Marionette, in un atto.`
+
+Questa «*fiaba*» fu improvvisata in pochi giorni,
+come si rileva dal prologhetto, per invito della *Società
+Filarmonica* di Napoli e rappresentata, con
+musica del maestro :small-caps:`Mario Costa`, nel salone di
+quella *Società*, intorno al 1888. Ai due autori fu assegnato
+il compito di offrire, soprattutto, «un grazioso
+spettacolo di atteggiamenti, di colori e di armonie».
+Il *libretto* non doveva essere che «un pretesto
+per far comparire sulla scena, in costumi fantastici,
+una schiera di eleganti giovanotti e fanciulle»
+appartenenti all'aristocrazia, con alla testa
+il tenore :small-caps:`Marconi`, il baritono :small-caps:`Kaschman` e la signora :small-caps:`Kaschman`, protagonisti della festa mondana.
+
+[pg!306]
+
+.. clearpage::
+
+[pg!307]
+
+.. class:: center large
+
+PERSONAGGI DELLA FIABA:
+
+   .. class:: large
+
+   | :small-caps:`Fleno`, *ex re di Zano*.
+   | :small-caps:`Arunto`, *candidato al trono di Zano*.
+   | :small-caps:`Clea`, *conduttrice delle* Disilluse *e* Disillusa *anch'ella*.
+   | :small-caps:`Le Fanciulle disilluse`.
+   | :small-caps:`I Giovanotti`.
+   |
+   | *Cori di voci misteriose*.
+
+Epoca, a piacere. — L'azione non si svolge in nessuna
+parte del mondo, ma, viceversa, poi, si svolge un po'
+dovunque.
+
+[pg!308]
+
+[pg!309]
+
+
+
+
+PROLOGHETTO DE «LE DISILLUSE».
+==============================
+
+*(scritto dall'Autore stesso e detto dal Direttore di scena.)*
+--------------------------------------------------------------
+
+.. class:: center
+
+| :small-caps:`Il Direttore di scena`
+
+*(a sipario calato, esce dalle quinte e, con una
+certa emozione, si rivolge al pubblico.)*
+
+   | Per voi, piccol gran pubblico, per voi, «mondo dorato»,
+   | Roberto Bracco e Mario Costa hanno improvvisato
+   | una celia che abbonda di note e di parole,
+   | uno spettacolino riboccante di fole.
+   | Come il burattinaio, dinanzi ai bimbi attenti,
+   | fa muovere i fantocci, prestando lor gli accenti
+   | d'un estro infantilmente disinvolto, così
+   | i nostri cari autori han fatto lì per lì,
+   | accogliendo l'invito di questa Direzione
+   | che non chiedeva fiabe, ma un gioco da salone,
+   | con un profumo d'arte, per uso delle dame
+   | e delle damigelle. Quasi foste uno sciame
+   | di scolarette a spasso, sotto il pretesto della
+   | estemporaneità, ecco la marachella
+   | d'ammannirvi, in istrofe fanciullesche e neglette,
+   | le vicende fantastiche di certe marionette.
+   | E il peggio è che si allude a cose che sul serio
+   | [pg!310]
+   | vi seccano, benchè... vecchie come il salterio:
+   | *l' amore delle donne, le donne nell'amore.*
+   | *le signorine ansiose di diventar signore,*
+   | *i falsi voti avversi alla* :small-caps:`maschilità`,
+   | *sognata da ogni donna, qual meta e qual metà....*
+   | Insomma, io penso e dico che i due burattinai,
+   | facendo questa burla, sono maligni assai,
+   | e che il trattar da bimbi persone come voi,
+   | per ingannarle prima, per punzecchiarle poi,
+   | è... *un atto* che, anche in musica, non merita clemenza.
+   | Ed io, che, in qualità di *régisseur*, ma senza
+   | aver nessuna colpa, mi trovo qui, sul banco,
+   | per dir così, dei rei, vo' almeno parlar franco
+   | e protestare contro Roberto Bracco e Mario
+   | Costa, pria che davanti a voi s'alzi il sipario.
+   | Per quel poco che c'entro in queste «Disilluse»,
+   | mie dame e damigelle, io v'offro le mie scuse.
+   | Ed un consiglio v'offro per... *gl'improvvisatori*.
+   | Applauditeli all'ultimo, ma, appena vengon fuori,
+   | lasciando cader pigre le manine guantate,
+   | aprite le boccucce gentili e... sbadigliate.
+
+.. class:: center
+
+*(via)*
+
+[pg!311]
+
+
+
+
+ATTO UNICO.
+===========
+
+.. epigraph::
+
+   | Le mariage est de toutes les choses sérieuses
+   | la chose la plus bouffonne.
+   |
+   |   :small-caps:`Beaumarchais`.
+
+*Una campagna incolta, ricca di fiori e di verzura.
+In fondo, si eleva una siepe di cespugli folti.
+A destra e a manca, sentieruoli erti e serpeggianti. — Tra
+l'edera, il muschio e le felci, la porticina d'un
+tugurio. Sopra la porticina, un largo buco a mo' di
+finestrella. Qua e là, rovi, ciuffi d'erbe selvatiche,
+tronchi d'alberi spezzati. Il cielo è azzurro. Nell'aria
+si diffonde una luce strana, lievissimamente
+rosea, con sfumature giallognole: è un'aria ingombra
+di vapori leggeri e leggermente colorati, la
+quale dà alla scena campestre un carattere fantastico.
+Si vede scintillare, lontano lontano, in alto,
+dove sono più densi i vapori, il dorato «Castello
+della fantasia».*
+
+*(Alzatasi la tela, la scena è vuota. — Si sente il
+canto delle Disilluse portato dal vento. — Le parole,
+per fortuna dell'autore, quasi non si odono.)*
+
+[pg!312]
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle, tra cui Clea`
+
+.. class:: center
+
+*(di dentro)*
+
+   | È l'alma affranta,
+   |   è vuoto il core,
+   |   la vita è infranta,
+   |   il mondo muore.
+   |
+   | Qui di luce mesti incanti
+   |   noi viviamo circonfuse...,
+   |   La natura par che canti:
+   |   «Disilluse! disilluse!...»
+
+*(Circondate d'una luminosa aureola, le Fanciulle,
+dagli abiti semplici, gentili, vaporosi e tinti
+di colori pallidi, dai capelli sciolti, ornati di fiori
+delicati, e dagli atteggiamenti di persone dolci, languide,
+annoiate e sospirose, si avanzano a poco a
+poco. — Clea è la loro conduttrice.)*
+
+   | Venticello innamorato,
+   |   che d'intorno a noi ti aggiri,
+   |   che ci avvolgi di sospiri
+   |   e ci assedi da ogni lato,
+   |   sappi ben che ci ami invano.
+   |   L'amor nostro è morto a Zano!
+   |
+   | Venticello vagabondo,
+   |   tu che vedi, tu che senti
+   |   tutti i nostri patimenti,
+   |   va laggiù, va a dire al mondo
+   |   che noi... gli uomini aboliamo...
+   |   Non amiamo, non amiamo!
+
+*(Si ode un lungo e dolce sbadiglio.)*
+
+   | [pg!313]
+   | Siam fanciulle... sbadiglianti...
+   |   d'aria e luce circonfuse....
+   |   La natura par che canti:
+   |   «Disilluse, disilluse....»
+
+*(Continuano a cantare tutte, meno Clea, alla
+quale esse si rivolgono.)*
+
+   | Ma un ricordo di note soavi
+   |   d'altri tempi si va risvegliando.
+   |   Se tu, Clea, quelle note cantavi,
+   |   ogni illusa cantava, sperando.
+   |
+   | Nel tuo core, bellissima Clea,
+   |   ravvivava quel canto la fè.
+   |   Ti chiamavan di Zano la dea:
+   |   la canzone era fatta per te.
+   |
+   | Deh! ripeti la canzone
+   |   della spenta illusione.
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+   | Il passato evocherò!
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+   | Canta, canta...
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+   | Canterò.
+
+*(ricordando e ripetendo l'antica canzone, con enfasi
+ridicola)*
+
+   | «Sei nata nel giardino d'una fata
+   |   «che fuga col suo fascino il dolore.
+   |   «Al sol de' suo' begli occhi tu sei nata,
+   |   «giglio gentile, giglio incantatore.
+
+[pg!314]
+
+   | «Sarà fecondo di pace infinita
+   |  «il lieto tuo fatidico candore.
+   |  «Eternamente amata, la tua vita
+   |  «sarà un connubio di pace e d'amore.»
+
+*(interrompendosi.)*
+
+   | Canzone menzognera!
+   |   Chi m'ama?... Chi mi amò?...
+   |   Dov'è la pace vera?
+   |   È pace questa?... No.
+   |   E un'altra strofa, l'ultima,
+   |   io voglio ricordar.
+   |   Mentiva pure! Uditela,
+   |   uditela cantar:
+   |
+   | «Sarai fanciulla bella innamorata
+   |   «d'un altro come te leggiadro fiore,
+   |   «sbocciato nel giardin della tua fata
+   |   «che fuga col suo fascino il dolore.»
+
+*(Si abbandona sopra un sasso, presso il tugurio
+del romito, e vinta dalla noia, si assopisce.)*
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(dopo la breve estasi di sollievo, ricascano nel
+triste languore.)*
+
+   | È l'alma affranta,
+   |   è vuoto il cuore,
+   |   la vita è infranta,
+   |   il mondo muore.
+
+*(Lentamente e mollemente, quasi mosse dal venticello,
+le Fanciulle a poco a poco si allontanano
+e spariscono.)*
+
+[pg!315]
+
+   | Siam fanciulle... sbadiglianti...
+   |   d'aria e luce circonfuse....
+   |   La natura par che canti:
+   |   «Disilluse! disilluse!...»
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+.. class:: center
+
+*(resta addormentata sul sasso.)*
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+*(avvolto nel suo nero mantello, la testa quasi
+tutta nascosta nel cappuccio, la gran barba bianca
+fluente sul petto, esce dal tugurio. Vedendo Clea,
+mormora:)*
+
+La conduttrice delle Disilluse dorme il sonno
+della noia.... Gesticola.... Sta sognando....
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+*(in una specie di sonnambulismo, fa con la mano
+come se discacciasse un'ape.)*
+
+   | Ape molesta
+   | va via di qua.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+   | Dorme e par desta.
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+   | Ah! se ne va.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+   | La bionda mesta
+   |   sognando sta.
+
+[pg!316]
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+*(ricomincia a gesticolare, discacciando l'ape.)*
+
+   | Di nuovo qui giunge....
+   |   e torna su me.
+   |   Quest'ape mi punge,
+   |   mi punge.... Perchè?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+*(le si accosta, per liberarla dall'insetto importuno.)*
+
+   | D'un'ape ella parla
+   |   e l'ape non c'è.
+   |   Ma, intanto, sognarla!...
+   |   Sognarla!... Perchè?
+
+.. class:: center
+
+*(Vedendo che ella si desta.)*
+
+   | Si sveglia.... Si sveglia....
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+.. class:: center
+
+*(aprendo gli occhi.)*
+
+   | Sei tu!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+   | Sì....
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+   | Che fai?
+
+[pg!317]
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+   | Chi dorme... e chi veglia....
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+   | M'hai punta?...
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+   |   No!... Mai!
+   | Non c'era l'ape; nemmen c'ero io.
+   | Chi ti pungeva davver non so.
+   | .... Pungeva forse qualche desio
+   | che viene in sogno... ma in veglia no.
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+   | Non indagare nel sogno mio....
+   | Chi mi pungeva davver non so.
+   | Pungeva forse qualche desio
+   | che viene in sogno... ma in veglia no.
+
+.. class:: center
+
+*(andandosene)*
+
+   | A rivederci.... Buon vecchio, addio!
+   | Le Disilluse raggiunger vo'....
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+.. class:: center
+
+*(con insinuante furberia)*
+
+   | A rivederci... Pensa al desio....
+   | che punge in sogno, ma in veglia no.
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+.. class:: center
+
+*(va via.)*
+
+[pg!318]
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(seguendo con lo sguardo Clea, e scotendo la testa:)*
+
+Va a raggiungere le Disilluse!... Ingenue! La loro
+disillusione è la più grande delle illusioni! Esse
+credono d'aver sofferto assai, appunto perchè non
+sanno che cosa sia soffrire. Se avessero provata
+una sola delle sventure toccate a me!...
+
+.. class:: center
+
+| :scene:`(Rivolgendosi al pubblico)`
+
+Io sono l'ex re di Zano: un regno senza impicci,
+un regno piccolo piccolo, un regno tascabile....
+Ed io, infatti, avevo in tasca il mio regno e i
+miei sudditi; — ma ora sono essi che hanno in tasca
+me! Ah! Quando ricordo il giorno della rivolta,
+mi rivengono i brividi! Che batoste, e che
+paura!... Io me la svignai travestito da vecchio;
+e in questa.... vecchiezza continuo a nascondermi,
+perchè *(accennando, col gesto, alle probabili busse)*
+la prudenza non è mai troppa!...
+
+   | Quel giorno, che catastrofe!
+   |   Ed io, mutando viso
+   |   per non morire ucciso,
+   |   fuggii... Fuggii sin qui!
+   |
+   | Romito, in un tugurio
+   |   sinistramente muto,
+   |   al regno che ho perduto
+   |   penso la notte e il dì.
+   |
+   | Ah! come le memorie
+   |   mi danzano d'intorno
+   |   e tornano ogni giorno
+   |   a dir: «tu fosti re!»
+
+[pg!319]
+
+   | Mi pesa questa maschera
+   |   d'umile vecchio inetto,
+   |   ribellasi nel petto
+   |   il giovanile ardor.
+   |
+   | Son di me stesso, misero,
+   |   la tetra sepoltura....
+   |   Son morto addirittura...
+   |   ahimè!, vivendo ancor.
+   |
+   | E le memorie danzano
+   |   intorno a questo morto,
+   |   che non è ancor risorto...
+   |   che morto ancor non è.
+
+*(Rattristato, rientra nel suo tugurio, e si rincantuccia
+sotto l'arco della porta.)*
+
+.. class:: center
+
+| :small-caps:`Voci misteriose`
+
+   | Avanti, Arunto,
+   |   non ti stancar.
+   |   Se non se' giunto,
+   |   non ti fermar.
+   |
+   | La terra è immensa....
+   |   Sembra piccina....
+   |   Cammina e pensa,
+   |   pensa e cammina.
+
+*(Arunto comparisce nel suo abito smagliante,
+con in mano una borsetta da viaggio, e le voci
+misteriose continuano:)*
+
+   | Coraggio, Arunto,
+   |   non disperar.
+   |   Se non se' giunto
+   |   non ti fermar.
+
+[pg!320]
+
+   | Per chi dispera
+   |   tutto è rovina.
+   |   Cammina e spera,
+   |   spera e cammina!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(stanco, scoraggiato, guardandosi attorno)*
+
+   | Cessate, o voci arcane! Ahimè, dal petto
+   |   ogni speranza già fuggir mi sento.
+   |   A interrogare il cielo io sono intento,
+   |   ma un lieto auspicio inutilmente aspetto.
+   |
+   | O tu, di gloria bel sogno dolcissimo,
+   |     vanisci a poco a poco:
+   | e dell'antica mia perduta audacia
+   |     ora il ritorno invoco.
+   |
+   | Misteriosi e lieti m'accompagnano,
+   |   nel mio cammin fatale, questi canti;
+   |   e i monti, i fiumi, gli alberi mi dicono:
+   |   «Coraggio Arunto! Avanti, avanti, avanti!»
+   |
+   | Ma tu, di gloria mio sogno dolcissimo,
+   |     vanisci a poco a poco;
+   | e invano della mia perduta audacia
+   |     ora il ritorno invoco.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(scotendosi)*
+
+La pace sia con te!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(accorgendosi del romito)*
+
+[pg!321]
+
+Oh! Credevo d'essere solo.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+E sei solo, difatti.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+E tu?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Io mi chiamo: Nessuno!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Chi t'ha dato questo nome?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+La sventura.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Poveretto!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Anche tu mi sembri una persona non molto allegra.
+Devi avere più d'un diavolo per capello....
+Che vuoi? Dove vai? Donde vieni? Chi sei?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Io sono Arunto. Vengo da Zano....
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+.. class:: center
+
+*(sussulta.)*
+
+[pg!322]
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Vado... non so dove. E voglio... undici fanciulle.
+Non ti sorprendere.... L'impresa mia è più nobile
+di quanto, per avventura, tu immagini. Il popolo
+di Zano mi ha incaricato di ricondurre in patria
+le undici fanciulle, le più belle del regno, che, disilluse
+della vita, volarono via, emigrando dalla
+terra nativa.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(con ansia repressa)*
+
+Ah? Il popolo di Zano ti ha dato codesto incarico?
+E raccontami, raccontami: che si fa laggiù?
+Come se la passano quei bravi rivoltosi?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Rivoltosi! E come sai...?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+.. class:: center
+
+| :scene:`(confondendosi un po')`
+
+.... Qualche volta il vento pettegolo viene a susurrarmi
+all'orecchio le notizie dei paesi lontani....
+*(Tra sè)* Che sia un mandatario dei miei nemici?
+*(Ad Arunto, con dissimulazione)* Non conosco Zano
+che di nome. È un vasto regno?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Non se ne vedono i confini.... C'è sempre la
+nebbia.
+
+[pg!323]
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+E che fanno i partiti politici?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Ognuno fa quello che l'altro non fa.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+E chi siederà sul trono?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Chi lo porterà sulle spalle.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Parli come una sibilla. Non vuoi dirmi la verità?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(con prudenza)*
+
+Per ora il popolo non chiede che le fanciulle
+fuggitive. Un re c'è sempre tempo di eleggerlo o
+di fabbricarlo. Ma la bellezza di undici fanciulle
+non si fabbrica e non si elegge.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Ti preme molto il trovarle?
+
+[pg!324]
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Non lo vedi? Passo di paese in paese, m'inoltro
+in terre sconosciute, non riposo mai.... *(Desolato)*
+E non le trovo!...
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Sono undici, hai detto? Sono belle? Sono disilluse
+della vita? Ebbene, tu non sei lontano da loro.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(con viva gioia)*
+
+Che!?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Vedi tu quell'aureo castello che scintilla nell'atmosfera
+vaporosa?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Lo vedo.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+È la dimora delle Disilluse: è il castello della
+Fantasia. Quando qui giunsero volando sulle ali
+della disillusione, si posarono lassù. Costruirono
+un nido di raggi di sole, e il nido, forte della invulnerabile
+castità delle candide abitatrici, fu ben
+presto solido e inespugnabile come una rocca e
+prezioso come un immenso ninnolo d'oro. In quel
+castello, che la loro immaginazione ha creato, esse,
+le candide abitatrici, vivono d'aria, di luce e di
+[pg!325]
+malinconia; e, tutte assorte nella loro profonda
+disillusione, menano una vita dolcissima... e si
+annoiano mortalmente.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+*(giubilante)* Io so tutto ciò che mi basta.... Vado,
+corro subito.... Mi getterò subito ai loro piedi....
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Non tanta foga, giovanotto mio! Sulla porta di
+quel castello è scritto: *Abbasso gli uomini!* Piuttosto,
+io ti consiglierei di aspettare qui. Spesso
+dal loro nido vengono fuori, e volano, volano,
+girovagando tra i ruscelli, gli alberi, i fiori, e spesso
+qui si fermano riempiendo l'aria dei lor lai
+melodiosi.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Benissimo! Benissimo!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Non tanta foga, giovanotto mio! Hai da sapere
+ch'esse fuggono e riparano nel loro castello al solo
+sospetto di un giovine viso maschile. E sarebbero
+anche capaci di dileguarsi se il giovine viso maschile
+si ostinasse a seguirle.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Dileguarsi? Come se fossero nuvole?!
+
+[pg!326]
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Difatti, talvolta i loro occhi lampeggiano..., tal
+altra si sciolgono in pioggia... di lagrime.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(di nuovo consolato)*
+
+Sicchè, è inutile aspettarle, è inutile sperare....
+Ma tu, le conosci?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Sì, a me queste farfalle latitanti concedono qualche
+minuto della loro presenza e della loro conversazione,
+perchè io, capisci?, essendo vecchio decrepito,
+non arreco loro spavento.... Anzi, ispiro
+fiducia....
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(tra sè)*
+
+La chiama fiducia, lui. *(A Fleno)* Ah! buon vecchio,
+se potessi afferrarle, se potessi parlare con
+loro!...
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Lo potrai fra una sessantina d'anni, cioè quando
+sarai vecchio come me.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(disperandosi)*
+
+Ah, perchè mia madre non mi ha fatto nascere
+sessant'anni prima?!
+
+[pg!327]
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+*(commosso)* Senti.... Io ho il mezzo di farti diventar
+vecchio....
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+In che modo?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Non m'interrogare, e non indagare. Io entrerò
+nel mio tugurio. E, dall'alto di quel finestrino, ti
+porgerò la mia Vecchiezza. Bada però: dopo sbrigata
+la bisogna, tu, di nascosto, la mia Vecchiezza
+mi renderai. Io, intanto, per sottrarmi a ogni
+ricerca... — so quel che dico — ... chiuderò a chiave
+la porta del tugurio.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(con effusione)*
+
+Oh! grazie! grazie! Tu sei il mio salvatore!
+Grazie!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Aspetta. *(Entra nel tugurio, chiude a chiave la
+porta, e, dopo qualche istante, ricompare dietro il
+finestrino col viso di giovane. Allungando un braccio,
+fa penzolare la finta barba bianca. E, poichè Arunto
+ha lo sguardo rivolto dalla parte opposta, egli,
+Fleno, lo chiama:)* Ehi!... pss! pss!...
+
+[pg!328]
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+*(si volta, si avvicina con meraviglia; e poi,
+quando Fleno gli consegna la barba, egli se l'appiccica
+alla faccia, assumendo la fisonomia di
+Fleno.)*
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+   | Ecco la barba della Vecchiezza
+   |   che cangia il viso, ma non l'età.
+   |   Con questa barba la Giovinezza
+   |   piglia un aspetto d'innocuità.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(mettendosi la barba)*
+
+   | Di sotto il pelo bianco
+   |   io giovine sarò,
+   |   chè nulla ho in me di stanco
+   |   e vecchio il cor non ho.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+*(dal finestrino, porgendo ad Arunto prima il
+mantello nero, poi il suo lungo bastone.)*
+
+   | Ecco il mantello della Vecchiezza
+   |   che cela l'uomo dal capo a piè;
+   |   ecco il bastone della stanchezza
+   |   di chi nel cuore vecchio non è.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(mettendosi il mantello)*
+
+   | Sotto il mantello nero
+   |   io mi nasconderò
+   |   e sempre quello che ero
+   |   e quel che son sarò.
+
+[pg!329]
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+   | T'ho dato, credimi,
+   |   tutto me stesso....
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+   | Te ne ringrazio!
+   |   Parla sommesso....
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+   | D'essere innocuo
+   |   per poco io cesso.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+   | Vecchio decrepito
+   |   io sono adesso!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(tra sè)*
+
+   | Di sotto il pelo bianco
+   |   io giovine sarò,
+   |   chè nulla ho in me di stanco
+   |   e vecchio il cor non ho.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+.. class:: center
+
+*(tra sè)*
+
+   | Che l'apparenza inganni,
+   |   è antica verità.
+   |   Ed egli, ne' miei panni,
+   |   le ingenue ingannerà.
+
+[pg!330]
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+*(si mette a sedere, tutto raggomitolato, presso il
+tugurio, fingendo d'essere Fleno.)*
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+.. class:: center
+
+*(di dentro)*
+
+   | È l'alma affranta,
+   |   è vuoto il cuore,
+   |   la vita è infranta,
+   |   il mondo muore.
+
+*(Si avanzano con la solita lentezza, nel solito
+atteggiamento di languore.)*
+
+.. class:: center
+
+| :small-caps:`Voci misteriose`
+
+   | Coraggio, Arunto,
+   |   non disperare.
+   |   Se non sei giunto
+   |   non ti fermare.
+   |
+   | Per chi dispera
+   |   tutto è rovina!
+   |   Cammina e spera,
+   |   spera e cammina.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+*(sentendo il canto delle Disilluse e vedendole
+venire)*
+
+Ah! eccole.... *(Dopo una pausa, parla alle Fanciulle,
+imitando la voce di Fleno)* La pace sia
+con voi!
+
+[pg!331]
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+Grazie, buon vecchio. La pace è con noi.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(tra sè, guardandola di sottecchi)*
+
+Che splendida creatura!
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+Mi sembri inquieto. Che fai?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+La figura di uno stranissimo mago m'è apparsa
+or ora. M'ha parlato di voi, ed è sparito.
+
+.. class:: center
+
+| :small-caps:`Clea`
+|
+| *(mal frenando la curiosità)*
+
+E che t'ha detto?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+M'ha data questa borsa *(mostrandola)*, dicendo
+che contiene dei doni per tutte voi. E io gli ho
+promesso di consegnarveli: non ho saputo dir
+di no....
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+Dei doni!...
+
+[pg!332]
+
+.. class:: center
+
+| :small-caps:`Le altre Fanciulle`
+
+Dei doni!...
+
+.. class:: center
+
+| :small-caps:`Clea e le Fanciulle`
+
+E che saranno? Che saranno?...
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Chi sa! A vederli, sono degli involtini eleganti....
+Conterranno qualche... qualche gingillo, qualche
+sorpresa. Potrebbero essere dei pegni d'affetto, per
+esempio, come quelli che si offrono... in occasione
+delle promesse di nozze....
+
+.. class:: center
+
+| :small-caps:`Clea e le Fanciulle`
+|
+| *(tumultuando)*
+
+Nozze?!... Mai! Mai! Mai!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Non vi spaventate.... Ho voluto sperimentarvi.
+Il mago m'ha detto... che soltanto le fanciulle irremovibili
+nel loro proposito sarebbero degne del
+suo dono. Sicchè, ora che sono sicuro delle vostre
+intenzioni, posso adempiere il mio compito.
+
+.. class:: center
+
+| :small-caps:`Clea e le Fanciulle`
+|
+| *(ansiose)*
+
+Date... date qua... date qua... date qua....
+
+[pg!333]
+
+.. _`borsa`:
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(aprendo la borsa, tra sè)*
+
+Alla mia divina interlocutrice non glielo do,
+perchè a lei spero di provvedere... personalmente.
+*(Rivolgendosi alle Fanciulle e distribuendo gl'involti)*
+A voi.... A voi.... A voi.... A voi.... A voi....
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+*(quando è finita la distribuzione, è assai scontenta
+di non aver ricevuto niente, e resta imbronciata,
+quasi con le lagrime.)*
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+*(osserva e finge)* Oh! Ne ho perduto uno!... *(A
+Clea)* Sono dolentissimo, ma....
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(dopo avere disfatto l'involtino, guardano con
+meraviglia e con gioia mal celata ciò che vi hanno
+trovato dentro: cioè un ritratto e una lettera.)*
+*(Esclamano:)* Un ritratto! *(Poi, entusiasmandosi)*
+Il ritratto d'un giovane!...
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+E lì..., che cos'è scritto? Leggete!
+
+[pg!334]
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(con crescente entusiasmo)* Una lettera!... *(L'aprono
+e leggono:)*
+
+   | «Io vi scrivo, damigella,
+   |   per offrirvi la mia mano.
+   |   So che siete tanto bella,
+   |   ch'io son ricco è noto; ma....
+   |
+   |   se un pochino non m'invita
+   |   il cuor vostro, tutto è vano,
+   |   che non bastano alla vita
+   |   di due sposi oro e beltà.
+
+*(Il loro volto s'irradia. Esse, commosse, leggono
+e rileggono la lettera, guardano il ritratto e si
+guardano tra loro con un misto di riluttanza e
+di contentezza.)*
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+*(notando il loro mutamento, tra sè)* Lo dicevo
+io!... Il mezzo è sicuro! *(Alle fanciulle, con circospezione)*
+E se vi dicessi che a ognuno di questi
+ritratti corrisponde un originale e a ognuna di
+queste lettere un po' di vero amore, fareste il sagrifizio
+di... *rimpa...tria... re*?
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(con ostentazione)* Eh.... Per non essere troppo
+sgarbate....
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+*(non potendone più)* E a me?
+
+[pg!335]
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+*(tra sè)* Ora posso rivelarmi, che esse, in fede
+mia, non si dilegueranno. *(A Clea, lasciando cadere
+di dosso il mantello e buttando via la barba)*
+La mia lettera è scritta qui *(indica il suo cuore)*
+e il mio ritratto è questo, *(indica il suo viso)*.
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+*(sussultando di giubilo)* Come?! Tu non sei il
+vecchio romito?....
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+Ooooh!...
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Arunto mi chiamo!
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(in un sommesso mormorio, fanno l'eco:)* Amo...
+amo... amo.... *(Indi, contemplando il ritratto e la
+lettera che hanno tra le mani, si fermano qua e
+là, formando gruppi pittoreschi.)*
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(con dolcezza, a Clea)*
+
+   | Solo vincere e regnare
+   |   vagheggiai con voluttà:
+   |   eran le speranze care
+   |   della mia ingenuità.
+
+[pg!336]
+
+   | Non fui mai corteggiatore
+   |   delle donne. Sai perchè?
+   |   Non mai vidi lo splendore
+   |   che rifulger vedo in te!
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+   | Solo vivere d'oblio
+   |   vagheggiai con voluttà.
+   |   Dissi al povero cor mio:
+   |   fuggi il mondo, fuggi, va.
+   |
+   | Dell'amore io diffidai....
+   |   Ne ignoravo le virtù,
+   |   chè nessun mi parlò mai
+   |   come adesso parli tu.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(con passione)*
+
+   | Io, guardandoti gli occhioni,
+   |   vedo aprire un usciolino:
+   |   il mio amore, ginocchioni,
+   |   vuole entrarci, ma... prestino.
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+.. class:: center
+
+*(con dolcezza)*
+
+   | Entri pure questo amore:
+   |   l'usciolin s'apre per lui.
+   |   Entri e resti finchè muore....
+   |   Non son più quella che fui!
+
+.. class:: center
+
+| :small-caps:`Clea e Arunto`
+
+.. class:: center
+
+*(abbracciandosi)*
+
+   | Di rinascere mi pare,
+   |   ma... non come nacqui un dì.
+   |   [pg!337]
+   |   Io rinasco per amare
+   |   come nasce il colibrì.
+   |
+   | Esso al nido sa portare
+   |   miele e amore: zuì zuì zuì....
+   |   Di rinascere mi pare,
+   |   ma... non come nacqui un dì.
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(intanto, continuano a contemplare il ritratto e
+a rileggere la lettera.)*
+
+   | «Io vi scrivo, damigella,
+   |   per offrirvi la mia mano.
+   |   So che siete tanto bella,
+   |   ch'io son ricco è noto; ma....
+   |
+   | se un pochino non m'invita
+   |   il cuor vostro, tutto è vano,
+   |   chè non bastano alla vita
+   |   di due sposi oro e beltà.»
+
+*(Ognuna da sè, con ostentata ingenuità)*
+
+   | Offrire la mano?
+   |   Che mai vorrà dire?
+   |   O Dio! Com'è strano!...
+   |   Mi par d'arrossire!
+
+.. class:: center
+
+| :small-caps:`Clea e Arunto`
+
+.. class:: center
+
+*(l'una accanto all'altro, in estasi)*
+
+   | Mi sento l'anima
+   |   da un'anima ghermire,
+   |   ed ecco stringonsi
+   |   insiem come due spire.
+
+[pg!338]
+
+   | A un filo magico,
+   |   ch'è un raggio dell'Eliso,
+   |   legate, volano
+   |   del cielo nel sorriso.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+*(che sporge la testa dal finestrino, senza essere
+veduto, borbotta:)*
+
+   | Cos'è cotesto affare?!
+   |   Si sono intesi già?
+   |   Si tratta... di volare!
+   |   A vele gonfie ei va.
+   |
+   | Ed io, che, senza vela,
+   |   più navigar non so,
+   |   qui reggo la candela....
+   |   Un bell'ufficio fo!
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(affollandosi e facendo ressa intorno ad Arunto
+lo interrogano in tono lamentevole.)*
+
+   | O cavaliere amabile,
+   |   voi di lusinghe e speme
+   |   venite _`apportatore`.
+   |   Or diteci, di grazia,
+   |   quello che più ci preme:
+
+.. class:: center
+
+*(mostrando il ritratto)*
+
+   |   dov'è questo signore?
+   |
+   | Noi ne vediam l'immagine...!
+   |   L'immagine è gentile;
+   |   ma l':small-caps:`uom` chi ce lo dà?
+   |   Noi ne leggiam la lettera,
+   |   [pg!339]
+   |   che è scritta in bello stile;
+   |   ma il resto... dove sta?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(tra sè, maliziosamente)*
+
+   | Che fretta, caspita!
+   |   Ho ben capito:
+   |   lo voglion subito
+   |   questo marito.
+   |
+   | Che sian confuse
+   |   a me non pare....
+   |   Le disilluse
+   |   si dan da fare.
+   |
+   | Il gran proposito
+   |   è già sfumato,
+   |   pensando al giovine
+   |   innamorato.
+   |
+   | Son d'una pasta
+   |   queste figliole!
+   |   A lor non basta...
+   |   di restar sole!
+
+*(Rivolgendosi alle Fanciulle per tranquillarle)*
+
+   | Rassicuratevi,
+   |   fanciulle mie.
+   |   Altro che storie
+   |   e fantasie!....
+   |
+   | Se l'impazienza
+   |   frenate un po'
+   |   dandomi udienza,
+   |   vi spiegherò.
+
+*(Se le chiama attorno, e mentre esse sono tutte
+intente a udirlo, egli spiega l'enigma:)*
+
+   | Di queste immagini
+   |   ogni fanciulla
+   |   [pg!340]
+   |   può far degli «uomini»
+   |   o... non far nulla.
+   |
+   | Sono ritratti
+   |   d'uomini veri,
+   |   un poco matti
+   |   sì, ma sinceri.
+   |
+   | Sposano ed amano
+   |   sinceramente,
+   |   ognun dicendovi
+   |   quello che sente.
+   |
+   | Ma se per poco
+   |   voi diffidate,
+   |   vi spegne il foco....
+   |   Ahimè! badate.
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(si mostrano vivamente emozionate e parlano
+tra loro con molto fervore.)*
+
+   | \— Da queste immagini
+   |   possono uscire
+   |   proprio degli uomini?!
+   |
+   | \— C'è da impazzire!
+   |
+   | \— Sono ritratti
+   |   d'uomini veri?!
+   |
+   | \— Vedrem dai fatti
+   |   se son sinceri.
+   |
+   | \— Sposano ed amano
+   |   sinceramente?!
+   |
+   | \— Fidare e credere
+   |   non è prudente.
+   |
+   | \— Ma se per poco
+   |   noi diffidiamo,
+   |   si spegne il foco....
+   |
+   | \— No! no! Badiamo!
+
+[pg!341]
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(continuando a spiegare l'enigma.)*
+
+   | Di queste immagini
+   |   mi son munito,
+   |   chè dentro ascondono
+   |   un bel marito.
+   |
+   | Se dunque amate
+   |   intensamente,
+   |   voi conquistate
+   |   l'uomo latente.
+   |
+   | Tutti i miracoli
+   |   può far l'amore,
+   |   che è già un fenomeno
+   |   superiore.
+   |
+   | Ogni ritratto
+   |   diventerà
+   |   un uomo adatto....
+   |   che sposerà.
+
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+.. class:: center
+
+*(tra sè)*
+
+   | Ma che fa? Le piglia in giro?
+   | È un burlone, o è un fakiro?
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(raggianti, ma ancora un po' dubbiose, restano
+mute, perplesse.)*
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+   | Ebben, su, che risolvete?
+   | Siete, alfine, innamorate?
+
+[pg!342]
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+.. class:: center
+
+*(pudibonde)*
+
+   | Cavaliere, via, tacete!
+   | Perchè ci mortificate?
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(in tono canzonatorio)*
+
+   | Dite di no?
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+.. class:: center
+
+| *(abbassano gli occhi e non rispondono.)*
+|
+| *(Pausa.)*
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(piegando le braccia)*
+
+   | Aspetterò.
+
+.. class:: center
+
+*(Pausa.)*
+
+   | Dite di sì?
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+.. class:: center
+
+*(irrefrenabilmente prorompono)*
+
+   | Sì, sì, sì, sì!...
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+   | Ah! finalmente!
+   |   Ed ora attente,
+   |   attente a me.
+
+[pg!343]
+
+*(Raccoglie dalle loro mani i ritratti e, con la
+solennità d'un ispirato, li lascia cadere a uno a
+uno dietro la siepe. Quindi, con gravità e mistero,
+che stuzzica sempre più la curiosità non disinteressata
+delle ragazze, aspetta il risultato del suo
+audace incantesimo, dicendo:)*
+
+   | Uno!... due!... tre!
+
+*(Al «tre», dietro la siepe compariscono, scattando
+su come fantocci da una scatola, tanti giovanotti,
+belli e luminosamente vestiti, quanti ritratti
+Arunto ha seminati; ed egli, con un gesto
+trionfale, esclama:)*
+
+   | Chiedeste uomini?
+   |   Eccoli qua!
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+*(pazze di gioia, corrono ognuna presso il rispettivo
+fidanzato.)*
+
+   | Oh, l'ineffabile
+   |   felicità!...
+
+.. class:: center
+
+| :small-caps:`I Giovanotti`
+
+*(amorosamente, parlano, ognuno alla propria
+sposina.)*
+
+   | Io ti ho scritto, damigella,
+   |   per offrirti la mia mano.
+   |   Lo sapevo che sei bella;
+   |   ch'io son ricco è noto; ma,...
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+   | È il mio core che t'invita.
+   |   T'ho chiamato da lontano....
+   |   [pg!344]
+   |   Già di te m'ero invaghita.
+   |   Dove? Quando? Chi lo sa!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(alle Fanciulle)*
+
+Sicchè voi ritornate a Zano con me?
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+|
+| *(vociferando)*
+
+Ritorniamo! Ritorniamo!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Io metto ai vostri piedi la mia riconoscenza. Ora
+che la mia impresa è riuscita posso dirvene la ragione
+e posso dirvi quanto vi debbo.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+*(che, senza esser visto, non ha mai cessato di far
+capolino dal buco del suo tugurio, sporge ora un
+poco più il capo per meglio udire, e mormora:)*
+
+Finalmente capirò anch'io qualche cosa.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(alle Fanciulle)*
+
+Quando voi, disilluse, fuggiste da Zano, quel popolo
+aveva discacciato dal trono il re Fleno... e
+aveva fatto benissimo!
+
+[pg!345]
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(offeso, tra sè:)*
+
+Oh! questo poi!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Un pessimo arnese, senza carattere, senza energia,
+senza intelligenza...
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+È vero! È vero!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(tra sè:)*
+
+Cortesissime!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Ebbene, io mi presentai candidato al trono. Promisi
+mari e monti, e spesi un fiume... di quattrini,
+ma non conchiusi nulla. Senonchè, il popolo di
+Zano mi fece sapere ch'esso concederebbe il trono
+a chi ritrovasse e riconducesse nel regno le Fanciulle
+disilluse. Accettai il patto, compresi che la
+disillusione, con la relativa fuga, non poteva avere
+avuto altra causa che la mancanza di quel prezioso
+gingillo che si chiama marito; e quindi, provvedutomi
+di questo articolo in effigie e in _`epistola`,
+impresi il viaggio e... il resto lo sapete.
+
+   | Ogni miracolo
+   |   può far l'amore,
+   |   che è già un fenomeno
+   |   superiore.
+
+[pg!346]
+
+L'amore, quando è verace, dà corpo alle ombre,
+fa d'un ritratto un uomo, fa di un nulla un marito....
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(tra sè:)*
+
+... e di un marito un nulla!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+E, difatti, sotto la pioggia del vostro amore, i
+mariti vi sono spuntati dinanzi... come i funghi.
+In conclusione, io vi condurrò a Zano, avrò il premio,
+sarò acclamato re, e, per regalo di nozze, offrirò
+alla mia sposa, una corona... di Regina.
+
+.. class:: center
+
+| :small-caps:`Giovanotti e Fanciulle`
+
+Sia gloria ad Arunto, il futuro re di Zano!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(uscendo, modestamente, dal tugurio)*
+
+Domando la parola per un fatto personale.
+
+.. class:: center
+
+| :small-caps:`Giovanotti e Fanciulle`
+
+Chi è? Chi è?...
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(alle Fanciulle)*
+
+Non mi riconoscete, eh? Il vostro amico, il vostro
+vicino, il vostro povero romito.... Signorine
+[pg!347]
+mie, avete creduto per tanto tempo alla mia Vecchiezza:
+ma essa era falsa, come la vostra Disillusione.
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+E allora, chi eravate? Chi siete?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Io ero e sono... Fleno, il re discacciato da Zano.
+
+.. class:: center
+
+| :scene:`(Sorpresa generale.)`
+
+.. class:: center
+
+| :small-caps:`Una delle Fanciulle`
+
+Sì... ora mi rammento di avervi visto una volta
+in funzione. Fu il giorno in cui cadeste da cavallo.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Oh, non mi parlate di quel cavallo!... Era un
+asino!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+... Mi scuserai se t'ho fatto un po' di critica....
+Vuoi che io rettifichi?
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Non rettificare, ma permettimi invece di fare appello
+alla tua coscienza. Prestandoti la mia Vecchiezza,
+t'ho dato modo di guadagnare un regno e una
+donna, che vale più del regno. Vuoi essere riconoscente?
+[pg!348]
+Tieniti la donna e cedi il regno a me. A
+quanto ho sentito, chiunque ricondurrà queste fanciulle
+a Zano avrà in premio il trono rimasto vuoto.
+Lascia che riconduca io le belle fuggitive in patria.
+Così il premio sarà mio e riavrò quel che mi
+fu tolto.
+
+.. class:: center
+
+| :small-caps:`Arunto`
+|
+| *(un po' titubante)*
+
+Ma io ho promesso il regno alla mia fidanzata...
+È lei che deve decidere.
+
+.. class:: center
+
+| :small-caps:`Clea`
+|
+| *(solennemente)*
+
+A me basta il Regno dell'Amore! Ritorni Fleno
+al suo trono!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+|
+| *(con pari solennità, stringendole la mano)*
+
+Signorina,... voi siete un galantuomo!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Va, dunque, buon Fleno: mettiti alla testa di queste
+felici coppie di sposi. Chiudi un occhio per la
+strada... e va a rifarti re!
+
+.. class:: center
+
+| :small-caps:`Giovanotti e Fanciulle`
+
+Sia gloria a Fleno, il futuro re di Zano!
+
+[pg!349]
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Con lo stesso entusiasmo avete acclamato me un
+minuto fa!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+La politica, mio caro, è opportunista come il
+cuore della donna! Ed ora... voglio lasciare a queste
+contrade un ricordo del falso vecchio romito,
+la cui falsità è stata utile a tanta gente giovane e
+forte. Ecco un robusto tronco d'albero eterno *(mostrando
+ad Arunto un tronco d'albero, che ha alla
+cima quasi l'impronta d'una faccia umana)* il quale
+continuerà a rappresentare l'esperienza della Vecchiezza
+e la forza della Gioventù. *(Truccando il
+tronco da romito, col mantello, con la barba e
+col bastone)* Chi sa che anch'esso, con questi panni
+e questa barba, non debba rendere qualche servigio
+all'umanità! *(Il tronco ha preso l'aspetto del
+vecchio romito)* Così.... Così! *(Salutando il fantoccio)*
+Addio, addio, romito!
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+Addio, romito! Addio!
+
+.. class:: center
+
+| :scene:`(Grande animazione, saluti, strette di mano, manifestazioni di tenerezza e di allegria.)`
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+Addio, compagne d'esilio!
+
+[pg!350]
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+Addio, Clea!
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+Addio, Fleno! Addio, fanciulle!
+
+.. class:: center
+
+| :small-caps:`Arunto e Clea`
+
+Noi andiamo a far l'amore!
+
+.. class:: center
+
+| :small-caps:`Le Fanciulle`
+
+Noi andiamo a far le mogli!
+
+.. class:: center
+
+| :small-caps:`Arunto e Clea`
+
+Non è lo stesso!
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+Io vado a non far niente!
+
+*(Si avvia su per un erto sentiero, e, capitanando
+le coppie degli sposi, le esorta, con gesto di trionfatore,
+a seguirlo)*.
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+Viva il Re! Viva l'Amore! Viva il Matrimonio!
+
+*(L'animazione cresce. — Arunto e Clea, affascinati,
+abbracciati, s'incamminano su per un
+sentiero opposto. — I vapori dell'atmosfera si
+vanno diradando... come la pazienza del pubblico.)*
+
+[pg!351]
+
+.. class:: center
+
+| :small-caps:`Arunto`
+
+.. class:: center
+
+*(a Clea)*
+
+   | Vieni, vieni, mia Regina,
+   |   dove un suddito sarò.
+   |   È quell'isola divina,
+   |   che Citera si chiamò.
+
+.. class:: center
+
+| :small-caps:`Clea`
+
+.. class:: center
+
+*(ad Arunto)*
+
+   | Purchè sia molto vicina,
+   |   purchè sia piena di te,
+   |   non voglio esserne Regina:
+   |   tu devi essere il mio re.
+
+.. class:: center
+
+| :small-caps:`Fleno`
+
+.. class:: center
+
+*(alle coppie)*
+
+   | Il sentiero è lungo e annoia
+   |   chi pedestre a Zano va;
+   |   ma... c'è qualche scorciatoia...
+   |   che opportuna vi parrà.
+
+.. class:: center
+
+| :small-caps:`Tutti`
+
+*(agitando i fazzoletti, s'allontanano, e, scambiandosi
+saluti romorosamente, anche salutano e risalutano
+il tronco d'albero, che forse vorrebbe rispondere,
+ma non può. — Una bianchissima luce inonda
+la scena. — Cala la tela lentamente.)*
+
+.. vspace:: 2
+
+----
+
+.. clearpage::
+
+.. topic:: Nota del Trascrittore
+
+   Ortografia e punteggiatura originali sono state mantenute
+   correggendo senza annotazione minimi errori tipografici.
+   Sono stati corretti i seguenti refusi (tra parentesi il
+   testo originale):
+
+      | 333 — aprendo la `borsa`_ [porta], tra sè
+      | 338 — venite `apportatore`_ [appartatore]
+      | 345 — in effigie e in `epistola`_ [espistola]
+
+|
+|
+|
+|
+|
+
+.. _pg_end_line:
+
+\*\*\* END OF THIS PROJECT GUTENBERG EBOOK LE DISILLUSE \*\*\*
+
+.. backmatter::
+
+.. toc-entry::
+   :depth: 0
+
+.. _pg-footer:
+
+.. class:: pgfooter language-en
+
+A Word from Project Gutenberg
+=============================
+
+We will update this book if we find any errors.
+
+This book can be found under: http://www.gutenberg.org/ebooks/37932
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules, set
+forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg™ electronic works to
+protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.
+They may be modified and printed and given away – you may do
+practically *anything* with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+.. _Project Gutenberg License:
+
+The Full Project Gutenberg License
+----------------------------------
+
+*Please read this before you distribute or use this work.*
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+http://www.gutenberg.org/license.
+
+
+Section 1. General Terms of Use & Redistributing Project Gutenberg™ electronic works
+````````````````````````````````````````````````````````````````````````````````````
+
+**1.A.** By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound by
+the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+**1.B.** “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
+works. See paragraph 1.E below.
+
+**1.C.** The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is in the public domain in the United
+States and you are located in the United States, we do not claim a
+right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting free
+access to electronic works by freely sharing Project Gutenberg™ works
+in compliance with the terms of this agreement for keeping the Project
+Gutenberg™ name associated with the work. You can easily comply with
+the terms of this agreement by keeping this work in the same format
+with its attached full Project Gutenberg™ License when you share it
+without charge with others.
+
+
+
+**1.D.** The copyright laws of the place where you are located also
+govern what you can do with this work. Copyright laws in most
+countries are in a constant state of change. If you are outside the
+United States, check the laws of your country in addition to the terms
+of this agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work.  The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+**1.E.** Unless you have removed all references to Project Gutenberg:
+
+**1.E.1.** The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere at no cost and with
+  almost no restrictions whatsoever. You may copy it, give it away or
+  re-use it under the terms of the Project Gutenberg License included
+  with this eBook or online at http://www.gutenberg.org
+
+**1.E.2.** If an individual Project Gutenberg™ electronic work is
+derived from the public domain (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work
+can be copied and distributed to anyone in the United States without
+paying any fees or charges. If you are redistributing or providing
+access to a work with the phrase “Project Gutenberg” associated with
+or appearing on the work, you must comply either with the requirements
+of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of
+the work and the Project Gutenberg™ trademark as set forth in
+paragraphs 1.E.8 or 1.E.9.
+
+**1.E.3.** If an individual Project Gutenberg™ electronic work is
+posted with the permission of the copyright holder, your use and
+distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
+any additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works posted
+with the permission of the copyright holder found at the beginning of
+this work.
+
+**1.E.4.** Do not unlink or detach or remove the full Project
+Gutenberg™ License terms from this work, or any files containing a
+part of this work or any other work associated with Project
+Gutenberg™.
+
+**1.E.5.** Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+**1.E.6.** You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format other
+than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ web site
+(http://www.gutenberg.org), you must, at no additional cost, fee or
+expense to the user, provide a copy, a means of exporting a copy, or a
+means of obtaining a copy upon request, of the work in its original
+“Plain Vanilla ASCII” or other form. Any alternate format must include
+the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+**1.E.7.** Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+**1.E.8.** You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works provided
+that
+
+.. class:: open
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method you
+  already use to calculate your applicable taxes. The fee is owed to
+  the owner of the Project Gutenberg™ trademark, but he has agreed to
+  donate royalties under this paragraph to the Project Gutenberg
+  Literary Archive Foundation. Royalty payments must be paid within 60
+  days following each date on which you prepare (or are legally
+  required to prepare) your periodic tax returns. Royalty payments
+  should be clearly marked as such and sent to the Project Gutenberg
+  Literary Archive Foundation at the address specified in Section 4,
+  “Information about donations to the Project Gutenberg Literary
+  Archive Foundation.”
+
+- You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+- You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+**1.E.9.** If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and
+Michael Hart, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
+
+**1.F.**
+
+**1.F.1.** Project Gutenberg volunteers and employees expend
+considerable effort to identify, do copyright research on, transcribe
+and proofread public domain works in creating the Project Gutenberg™
+collection. Despite these efforts, Project Gutenberg™ electronic
+works, and the medium on which they may be stored, may contain
+“Defects,” such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+**1.F.2.** LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the
+“Right of Replacement or Refund” described in paragraph 1.F.3, the
+Project Gutenberg Literary Archive Foundation, the owner of the
+Project Gutenberg™ trademark, and any other party distributing a
+Project Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+**1.F.3.** LIMITED RIGHT OF REPLACEMENT OR REFUND – If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+**1.F.4.** Except for the limited right of replacement or refund set
+forth in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH
+NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+**1.F.5.** Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+**1.F.6.** INDEMNITY – You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+``````````````````````````````````````````````````````````````
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will remain
+freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org .
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+``````````````````````````````````````````````````````````````````````````````
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf . Contributions to the
+Project Gutenberg Literary Archive Foundation are tax deductible to
+the full extent permitted by U.S.  federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are
+scattered throughout numerous locations. Its business office is
+located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
+
+For additional contact information:
+
+ | Dr. Gregory B. Newby
+ | Chief Executive and Director
+ | gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+```````````````````````````````````````````````````````````````````````````````````````````
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array of
+equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status
+with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5. General Information About Project Gutenberg™ electronic works.
+`````````````````````````````````````````````````````````````````````````
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the
+U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected *editions* of our eBooks replace the old file and take over
+the old filename and etext number. The replaced older file is
+renamed. *Versions* based on separate sources are treated as new
+eBooks receiving new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search
+facility:
+
+  http://www.gutenberg.org
+            
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe
+to our email newsletter to hear about new eBooks.
+
